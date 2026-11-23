@@ -1,0 +1,49 @@
+Q1 Ans
+
+switched to db college
+
+{
+    acknowledged: true,
+    insertedId: ObjectId("...")
+}
+
+
+Q2 Ans
+
+[
+  {
+    rollNo: 101,
+    name: 'Arun',
+    dept: 'CSE',
+    marks: 78,
+    city: 'Chennai'
+  },
+  {
+    rollNo: 102,
+    name: 'Rahul',
+    dept: 'ECE',
+    marks: 85,
+    city: 'Delhi'
+  },
+  {
+    rollNo: 103,
+    name: 'Karthik',
+    dept: 'CSE',
+    marks: 62,
+    city: 'Chennai'
+  },
+  {
+    rollNo: 104,
+    name: 'Amit',
+    dept: 'ECE',
+    marks: 75,
+    city: 'Mumbai'
+  },
+  {
+    rollNo: 105,
+    name: 'Suresh',
+    dept: 'CSE',
+    marks: 91,
+    city: 'Trichy'
+  }
+]
